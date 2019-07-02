@@ -1,2 +1,2 @@
-g=input()
-print(g.count(" "))
+r=input()
+print(r.count(" "))
